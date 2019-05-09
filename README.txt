@@ -16,4 +16,4 @@ Install XAMPP Control Panel in your PC/ machines.
 After the successful login, it redirects to the Updating User page. Where you need to input the First Name and Last Name and finally click the "Update" Button. After successful login it shows a message as "Updated Successfully !".
 
 --------URL of the Blog-------
-https://aperame.blogspot.com/p/blog-page.html
+https://aperame.blogspot.com/p/synchronizer-token-pattern.html
